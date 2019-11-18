@@ -18,7 +18,7 @@ public class Main {
 		System.out.println("");
 		System.out.println("----------------------------------------------------------------------------");	
 		System.out.println("");
-		System.out.println("                    ~~~~~ Made by Quentin & Daniel ~~~~~                    ");
+		System.out.println("                    ~~~~~ Made by Daniel & Quentin ~~~~~                    ");
 		System.out.println("");
 		System.out.println("----------------------------------------------------------------------------");
 	}
